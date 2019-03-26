@@ -1,7 +1,7 @@
 # vim-mypy
 
-Vim plugin for executing Python's optional static type checker [MyPy](http://mypy-lang.org/).
-This is a form of the [original](https://github.com/Integralist/vim-mypy) plugin by [Integralist](https://github.com/Integralist) made for maintenance purposes.
+Vim plugin for executing Python's optional static type checker [MyPy](http://mypy-lang.org/).  
+This is a fork of the [original](https://github.com/Integralist/vim-mypy) plugin by [Integralist](https://github.com/Integralist) made for maintenance purposes.
 
 ## Example
 

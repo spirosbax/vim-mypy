@@ -1,6 +1,7 @@
 # vim-mypy
 
-Vim plugin for executing Python's optional static type checker [MyPy](http://mypy-lang.org/)
+Vim plugin for executing Python's optional static type checker [MyPy](http://mypy-lang.org/).
+This is a form of the [original](https://github.com/Integralist/vim-mypy) plugin by [Integralist](https://github.com/Integralist) made for maintenance purposes.
 
 ## Example
 
@@ -19,13 +20,19 @@ To trigger the plugin, execute either `:Mypy` or the mapping `<Leader>mp`
 ### [Pathogen](https://github.com/tpope/vim-pathogen)
 
 ```bash
-git clone https://github.com/integralist/vim-mypy ~/.vim/bundle/vim-mypy
+git clone https://github.com/spirosbax/vim-mypy ~/.vim/bundle/vim-mypy
 ```
 
 ### [Vundle](https://github.com/gmarik/vundle)
 
 ```
-Plugin 'integralist/vim-mypy'
+Plugin 'spirosbax/vim-mypy'
+```
+
+### [Vim-Plug](https://github.com/junegunn/vim-plug)
+
+```
+Plug 'spirosbax/vim-mypy'
 ```
 
 ## Alternatives
